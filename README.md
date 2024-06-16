@@ -50,7 +50,7 @@ def send_email():
 python main.py
 ```
 
-** Remarques **
+**Remarques**
 
 - Assurez-vous que votre fournisseur de service e-mail permet les connexions SMTP et que vous avez configuré les permissions nécessaires.
 - Adaptez l'URL dans le script si l'adresse de la page de réservation de la préfecture change.
